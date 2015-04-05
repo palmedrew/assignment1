@@ -4,3 +4,5 @@ Currently really liking Ace Hard Perry Cider and Redd's Wicked Mango Ale.
 
 
 PROGRAMMING BACKGROUND
+	- sorta enjoy interpreted scripting languages
+	- my first programming language was FORTRAN
